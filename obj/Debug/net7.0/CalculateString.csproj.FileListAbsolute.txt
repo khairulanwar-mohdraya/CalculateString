@@ -1,0 +1,15 @@
+C:\dev\CalculateString\bin\Debug\net7.0\CalculateString.exe
+C:\dev\CalculateString\bin\Debug\net7.0\CalculateString.deps.json
+C:\dev\CalculateString\bin\Debug\net7.0\CalculateString.runtimeconfig.json
+C:\dev\CalculateString\bin\Debug\net7.0\CalculateString.dll
+C:\dev\CalculateString\bin\Debug\net7.0\CalculateString.pdb
+C:\dev\CalculateString\obj\Debug\net7.0\CalculateString.csproj.AssemblyReference.cache
+C:\dev\CalculateString\obj\Debug\net7.0\CalculateString.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CalculateString\obj\Debug\net7.0\CalculateString.AssemblyInfoInputs.cache
+C:\dev\CalculateString\obj\Debug\net7.0\CalculateString.AssemblyInfo.cs
+C:\dev\CalculateString\obj\Debug\net7.0\CalculateString.csproj.CoreCompileInputs.cache
+C:\dev\CalculateString\obj\Debug\net7.0\CalculateString.dll
+C:\dev\CalculateString\obj\Debug\net7.0\refint\CalculateString.dll
+C:\dev\CalculateString\obj\Debug\net7.0\CalculateString.pdb
+C:\dev\CalculateString\obj\Debug\net7.0\CalculateString.genruntimeconfig.cache
+C:\dev\CalculateString\obj\Debug\net7.0\ref\CalculateString.dll
